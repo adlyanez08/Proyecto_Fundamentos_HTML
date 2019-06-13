@@ -1,0 +1,17 @@
+<svg width="250" height="128" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#f6f4fc" id="canvas_background" height="130" width="252" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="63" rx="118.5" id="svg_16" cy="64.75" cx="122.25" stroke-width="1.5" stroke="#00007f" fill="#a6d4e0"/>
+  <ellipse id="svg_17" cy="10.75" cx="282.75" stroke-opacity="null" stroke-width="1.5" stroke="#ffaaaa" fill="#f4f8fc"/>
+  <ellipse stroke="#fcf7f7" ry="54.5" rx="110.999999" id="svg_18" cy="63.25" cx="114.749999" stroke-width="1.5" fill="#00007f"/>
+  <text font-weight="bold" stroke="#ffaaaa" transform="matrix(2.9170665139265757,0,0,2.732721400985116,-314.33846351632207,-462.50384792876036) " xml:space="preserve" text-anchor="start" font-family="'League Gothic', sans-serif" font-size="24" id="svg_19" y="199.921511" x="114.619068" stroke-opacity="null" stroke-width="0" fill="#56aaff">ADLY</text>
+ </g>
+</svg>
